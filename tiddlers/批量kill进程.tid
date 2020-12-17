@@ -1,0 +1,12 @@
+created: 20201217125505078
+creator: quinn
+modified: 20201217125601966
+modifier: quinn
+tags: Linux常用命令
+title: 批量kill进程
+type: text/vnd.tiddlywiki
+
+```
+ps aux | grep [进程名称] | awk -F " " '{print $2}' | xargs kill -9
+
+```
