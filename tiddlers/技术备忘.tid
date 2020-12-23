@@ -1,5 +1,13 @@
 created: 20201216144401889
-modified: 20201216144415852
+creator: quinn
+modified: 20201223022411917
+modifier: quinn
 tags: TableOfContents
 title: 技术备忘
 type: text/vnd.tiddlywiki
+
+<div class="tc-table-of-contents">
+
+<<toc-selective-expandable '技术备忘'>>
+
+</div>

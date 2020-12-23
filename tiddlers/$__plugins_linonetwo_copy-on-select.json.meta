@@ -1,0 +1,11 @@
+author: LinOnetwo
+core-version: >=5.1.22
+created: 20201223031339992
+dependents: 
+description: Copy what you are selecting inside the wiki into the clipboard
+list: readme
+modified: 20201223031339992
+plugin-type: plugin
+title: $:/plugins/linonetwo/copy-on-select
+type: application/json
+version: 0.0.1

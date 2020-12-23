@@ -1,0 +1,11 @@
+created: 20201218063547788
+creator: quinn
+modified: 20201223025403101
+modifier: quinn
+tags: Linux常用命令
+title: 设置hostname
+type: text/vnd.tiddlywiki
+
+```sh
+hostnamectl set-hostname 名称
+```

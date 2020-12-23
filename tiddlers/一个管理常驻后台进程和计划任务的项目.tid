@@ -1,0 +1,13 @@
+created: 20201223024037458
+creator: quinn
+modified: 20201223024342233
+modifier: quinn
+tags: 产品思考
+title: 一个管理常驻后台进程和计划任务的项目
+type: text/vnd.tiddlywiki
+
+背景：
+
+站在一个技术的角度来说，公司项目内部有很多计划任务和常驻的后台进程，如何去管理这些进程？
+
+常驻任务使用supvisor，计划任务使用crontab，如果能在同一个平台去管理任务，分析任务执行过程并且进行报警管理
